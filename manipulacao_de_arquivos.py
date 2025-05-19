@@ -38,6 +38,6 @@
 
 # remover arquivo
 
-import os 
-os.remove('test3.txt')
+#import os 
+#os.remove('test3.txt')
 
