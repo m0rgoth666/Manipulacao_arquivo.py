@@ -1,4 +1,4 @@
-# arquivo = open('test.txt', 'r') 
+
 
 # arquivo = open('test.txt', 'r') #LEITURA
 
